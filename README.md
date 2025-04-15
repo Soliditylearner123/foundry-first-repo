@@ -68,8 +68,8 @@ $ cast --help
 
 This is a crowd sourcing app!
 
-# Getting started 
+## Getting started 
 
-# Requirements
+## Requirements
 
 ## Quickstart
